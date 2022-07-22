@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "\u00A73This is a Beta Edition!\n\u00A78By Xboy minemc",
+        "name": "§e§l『QR for MC 1.16-1.18.10』",
+        "uuid": "1e42cf1e-987e-11e9-a2a3-2a2ae000bc17",
+        "version": [0, 0, 2],
+        "min_engine_version": [1, 16, 220]
+    },
+    "modules": [
+        {
+            "description": "『QR』Resource Pack",
+            "type": "resources",
+            "uuid": "256e9caf-d7f9-42d3-ac8b-f3550000b223",
+            "version": [0, 0, 1]
+        }
+    ]
+}
